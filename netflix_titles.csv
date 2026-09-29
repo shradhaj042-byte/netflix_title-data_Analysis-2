@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Adventure,John Smith,"Amit, Sara",India,"September 9, 2019",2019,TV-PG,90 min,Action,An exciting adventure story.
+s2,TV Show,Friends Forever,Jane Lee,"Rahul, Priya",India,"October 1, 2020",2020,TV-14,2 Seasons,Comedy,A story about friendship.
+s3,Movie,Love Story,David Brown,"Emma, John",United States,"January 15, 2021",2021,PG,110 min,Romance,A romantic movie.
+s4,Movie,The Mystery,Robert King,"Alex, Mia",United Kingdom,"March 10, 2018",2018,R,95 min,Thriller,A mysterious crime story.
+s5,TV Show,Space World,Tom Wilson,"Chris, Anna",Canada,"July 20, 2022",2022,TV-MA,3 Seasons,Sci-Fi,A journey through space.
+s6,Movie,Happy Days,Lisa Green,"Neha, Rohan",India,"December 5, 2017",2017,PG-13,105 min,Comedy,A fun comedy movie.
+s7,TV Show,Cooking Master,Mark Hall,Chef Raj,India,"May 12, 2021",2021,TV-G,1 Season,Reality,A cooking competition.
+s8,Movie,Wild Nature,Anna White,"David, Sam",Australia,"August 25, 2019",2019,G,85 min,Documentary,Explore the beauty of nature.
+s9,Movie,The Hero,Peter Clark,"Arjun, Vikram",India,"November 18, 2020",2020,TV-14,120 min,Action,A hero saves the city.
+s10,TV Show,School Life,Mary Jones,"Asha, Kiran",India,"February 14, 2023",2023,TV-PG,2 Seasons,Drama,Students and their school life.
